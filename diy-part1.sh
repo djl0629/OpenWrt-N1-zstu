@@ -19,3 +19,4 @@
 
 git clone https://github.com/kiddin9/openwrt-packages package/openwrt-packages
 git clone https://github.com/tuanqing/install-program package/install-program
+git clone https://github.com/ophub/luci-app-amlogic package/luci-app-amlogic
